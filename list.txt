@@ -1,8 +1,5 @@
-crisps
-popcorns
-biscuits
-chevda
-sweets
-chocolate
-cookies
-Bubble gum
+plates
+glasses
+cooking oil
+spices
+cups
